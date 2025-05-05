@@ -14,3 +14,12 @@
 
 `git diff`
 
+## Branch
+New branch
+`git checkout -b <branch name>`
+
+Change Branch
+`git checkout <branch name>`
+
+Check Branch
+`git branch`
