@@ -24,3 +24,7 @@ Change Branch
 
 Check Branch
 `git branch`
+
+Merge Branch
+- Main >> Merge branch develop
+`git merge develop`
