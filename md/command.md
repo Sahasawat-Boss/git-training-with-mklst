@@ -10,7 +10,7 @@
 
 ## Checking
 `git status`
-`git log`
+`git log` << Check all commits and changes to every branch
 
 `git diff`
 
@@ -19,6 +19,7 @@ New branch
 `git checkout -b <branch name>`
 
 Change Branch
+- Clone main to branch
 `git checkout <branch name>`
 
 Check Branch
