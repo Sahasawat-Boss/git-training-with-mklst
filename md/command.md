@@ -1,5 +1,16 @@
-# Command
+# Git Command
 
-Add Git to Folder
+## Add Git to Folder
+`git init`
+`git add .`
+`git status`
 
-`git init` 
+## Commit
+`git commit -m "init project"`
+
+## Checking
+`git status`
+`git log`
+
+`git diff`
+
