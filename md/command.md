@@ -33,3 +33,7 @@ Merge Branch
 ## Clone
 - clone everything + git log
 `git clone <url>` 
+
+## Push and Pull
+- Push = Commit to server (git repo)
+- Pull = Fetch from server (git repo)
