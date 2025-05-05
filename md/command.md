@@ -28,3 +28,8 @@ Check Branch
 Merge Branch
 - Main >> Merge branch develop
 `git merge develop`
+
+
+## Clone
+- clone everything + git log
+`git clone <url>` 
